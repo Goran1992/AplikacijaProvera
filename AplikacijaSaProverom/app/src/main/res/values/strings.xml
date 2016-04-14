@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AplikacijaSaProverom</string>
+    <string name="ime">Name</string>
+    <string name="pitanje"> </string>
+    <string name="button">Posalji</string>
+    <string name="pop">Pocetna</string>
+    <string name="zivotinja_na_slici">zivotinja na slici</string>
+</resources>
